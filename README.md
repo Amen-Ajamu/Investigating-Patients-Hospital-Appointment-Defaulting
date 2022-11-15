@@ -1,21 +1,10 @@
 # Investigating-Patients-Hospital-Appointment-Defaulting
 ### Dataset Description 
 
-This dataset pulled from [kaggle.com](https://www.kaggle.com/joniarroba/noshowappointments) collects information from 110,527 medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. Considering the 'no_show' column as the dependent variable, the 'appointment_id' and 'patient_id' as identifiers, the other columns list out the attributes of each one of the patients. The attributes are listed and discussed below:
+This dataset pulled from [kaggle.com](https://www.kaggle.com/joniarroba/noshowappointments) collects information from 110,527 medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. Considering the 'no_show' column as the dependent variable, the 'appointment_id' and 'patient_id' as identifiers, the other columns list out the attributes of each one of the patients.
 
-- 'gender': the distribution for gender in the data set is binary. The patients were either male or female
-- 'scheduled_day': supplies information about the date patients set up their appointment
-- 'appointment_day': this tells about the date in which the patients were billed for the appointment.
-- 'age': this gives information about the age of each one of the patients
-- 'neighbourhood': this indicates the location of the hospital
-- 'scholarship': this indicates whether the patient is enrolled in the Brasilian welfare program, __Bolsa Familia__
-- 'hypertension': this states whether the patient has hypertension or not
-- 'diabetes':  this states whether the patient has hypertension or not
-- 'alcoholism':  this states whether the patient is an alcoholic or not
-- 'handicap': this states the number of disability each one of the patients had
-- 'sms_received': states whether the patients received reminders or not
-- 'no_show': this column tells whether the patient came for the appointment or not. 'yes' means they did not show up,
-        while 'no' means they actually did show up.
+
+Take note that in the 'no_show' column 'yes' means they did not show up, while 'no' means they actually did show up.
 
 ## Summary of Findings
 
