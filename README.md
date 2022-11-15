@@ -1,5 +1,6 @@
 # Investigating-Patients-Hospital-Appointment-Defaulting
-### Dataset Description 
+### by Amen T. Ajamu
+## Dataset Description 
 
 This dataset pulled from [kaggle.com](https://www.kaggle.com/joniarroba/noshowappointments) collects information from 110,527 medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. Considering the 'no_show' column as the dependent variable, the 'appointment_id' and 'patient_id' as identifiers, the other columns list out the attributes of each one of the patients.
 
