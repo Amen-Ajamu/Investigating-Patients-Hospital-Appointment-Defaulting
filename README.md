@@ -16,6 +16,6 @@ It is also shown in the scatter plots that being advanced in age increased the n
 
 It is interesting to note that while the age distribution for the patients who did not show up for their appointment is more skewed to the right than those who did show up, there is similarity in the pattern of distribution. In both category of patients the highest proportion are patients aged between 0 and 10. This may be due to two reasons in my opinion:
 
-    1. It is reflective of the age distribution in the general data set. As such, sampling will be very central to making a concrete statistical inference from the dataset. 
+>It is reflective of the age distribution in the general data set. As such, sampling will be very central to making a concrete statistical inference from the dataset. 
        
-    2. That there is infact a problem with the dataset as the age value '0' makes up the most of the chunk of that dataset. Unfortunately there was no information of the reason why the patients booked the appointment to give one a justification for dropping the datasets with age value = 0
+>That there is infact a problem with the dataset as the age value '0' makes up the most of the chunk of that dataset. Unfortunately there was no information of the reason why the patients booked the appointment to give one a justification for dropping the datasets with age value = 0
